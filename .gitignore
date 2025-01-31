@@ -1,0 +1,9 @@
+raw_data/openfoodfacts.org.products-full_data.csv
+data_preparation.ipynb
+.DS_Store
+cv_results/
+raw_data
+processed_data/
+src/catboost_info
+*.csv
+initial_processing.ipynb

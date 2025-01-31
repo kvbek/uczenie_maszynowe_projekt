@@ -1,0 +1,3 @@
+# NutriClassifier
+
+Ten projekt ma na celu stworzenie modelu uczenia maszynowego, który klasyfikuje produkty spożywcze do odpowiednich kategorii Nutri-Score (A-E) na podstawie ich wartości odżywczych, takich jak kaloryczność, zawartość cukru, tłuszczów nasyconych, soli i białka. W ramach analizy przeprowadzono wstępne przygotowanie danych, eksploracyjną analizę danych (EDA) oraz ich oczyszczenie w celu poprawy jakość predykcji. Następnie zaimplementowano i porównano różne algorytmy klasyfikacyjne, aby wybrać najlepszy model.
